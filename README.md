@@ -4,14 +4,13 @@ I created a tourism website for a make-belief company called SEE:Ghana Inc. A co
 The Website showcases Ghana and encourages foreigners to come and tour the country.
 Users are also to make payment for the companies services using the website.
 
-__NB:__ Do not try to open the **"Check Status" Tab or Register** <u>since</u> PHP files download instead of opening for viewing, I have included Screenshots for the various php web pages.
+__NB:__ Do not try to open the **"Check Status" Tab or Register** since PHP files download instead of opening for viewing, I have included Screenshots for the various php web pages.
 
-[View Website Now ➡️](https://mufasa-d.github.io/Tourism_Website/) 
+[View Website Now](https://mufasa-d.github.io/Tourism_Website/) 
 
 
-[View User Dashboard screenshots]() <br>
-[View SignUP screenshots]() <br>
-[View SignIN screenshots]() <br>
+[View PHP web pages](https://drive.google.com/file/d/17ZLQ9kUza7h8Mgr6uECPEiCy7v4luVZm/view?usp=drive_link) <br>
+
 
 
 
