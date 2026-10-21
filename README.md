@@ -2,9 +2,17 @@
 
 I created a tourism website for a make-belief company called SEE:Ghana Inc. A company that offers accommodation, tourist guides and the like to aid tourists experience the best vacation of their lives in Ghana.
 The Website showcases Ghana and encourages foreigners to come and tour the country.
-Users are also to make payment for the companies services using the website.  
+Users are also to make payment for the companies services using the website.
+
+__NB:__ Since PHP files download instead of opening for viewing, I have included Screenshots for the various php web pages
+
+View Website Now ➡️ 
 
 
+[View SignUp screenshots]() <br>
+
+
+---
 ## 🛠️ FEATURES IMPEMENTED:
 
 Amazing CSS styling & layout, good error handling, form sanitization and validation, good session management etc
