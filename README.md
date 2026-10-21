@@ -6,7 +6,7 @@ Users are also to make payment for the companies services using the website.
 
 __NB:__ Since PHP files download instead of opening for viewing, I have included Screenshots for the various php web pages
 
-View Website Now ➡️ 
+[View Website Now ➡️](https://mufasa-d.github.io/Tourism_Website/) 
 
 
 [View SignUp screenshots]() <br>
